@@ -1,4 +1,4 @@
-.idea
+../.idea
 idea
 .DS_Store
 
@@ -7,7 +7,7 @@ idea
 *.egg
 
 dist
-db.sqlite3
+django_menu/db.sqlite3
 
 venv
 
